@@ -1,0 +1,21 @@
+# Python
+*.py
+__pycache__/
+venv/
+*.pyc
+
+# Word documents
+*.docx
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Personal files
+*resume*
+*Resume*
+*CV*
